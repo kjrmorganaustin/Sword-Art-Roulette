@@ -1,1 +1,0 @@
-javascript:(function(){let r = Math.random()*100; if (r <= 1) { alert('ERR. SAO Initilization failed. Project SEA TURTLE activate.'); window.location.replace('https://reddit.com/r/AlicizationLyroris'); } else { alert('Welcome to Sword Art Online!'); window.location.replace('https://reddit.com/r/SwordArtOnline');   } })();

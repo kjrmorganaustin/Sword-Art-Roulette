@@ -1,1 +1,0 @@
-javascript:(function(){let r = Math.random()*100; if (r <= 1) { alert("Welcome to Alfheim Online!"); window.location.replace("https://swordartonline.fandom.com/wiki/Alfheim_Online"); } else { alert("Welcome to Sword Art Online!"); window.location.replace("https://swordartonline.fandom.com/wiki/Sword_Art_Online"); } })();
